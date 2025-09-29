@@ -1,0 +1,661 @@
+[
+  {
+    "instruction": "ಸರಸ್ವತಿ, ತುಳುನಾಡ ದ ಇತಿಹಾಸದ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+    "response": "ತುಳುನಾಡು ದಕ್ಷಿಣ ಕನ್ನಡ ಬೊಖ ಉಡುಪಿಡಿಪುನೊಂಜಿ ಪ್ರದೇಶ. ಇಂದು ದುಂಬುಡಲ ವ್ಯಾಪಾರ ಕೃಷಿ ಬಕ ಮೀನುಗಾರಿಕೆಗೂ ಪ್ರಸಿದ್ಧ.",
+    "translation_en": {
+      "instruction": "Tell me about the history of Tulu Nadu.",
+      "response": "Tulu Nadu comprises the districts of Dakshina Kannada and Udupi. Since ancient times, it has been famous for trade, agriculture, and fishing."
+    }
+  },
+  {
+    "instruction": "ಸರಸ್ವತಿ, ತುಳು ಭಾಷ ದ ಮೂಲವವು?",
+    "response": "ತುಳು ದ್ರಾವಿಡ ಭಾಷೆ.  ಸಾವಿರ ವರ್ಷದ ಇತಿಹಾಸ ಇತ್ತ್ದು ಕರಾವಳಿ ಕರ್ನಾಟಕಡು ಒಂದು ಭಾಷೆ ಪಾತೆರುವರು.",
+    "translation_en": {
+      "instruction": "What is the origin of the Tulu language?",
+      "response": "Tulu is a Dravidian language with thousands of years of history, spoken mainly in coastal Karnataka."
+    }
+  },
+  {
+    "instruction": "ಸರಸ್ವತಿ, ಭೂತ ಕೋಲ ಪಂಡದಾದ?",
+    "response": "ಭೂತ ಕೋಲ ಪಂಡ ದೈವಾರಾಧನೆ. ನೃತ್ಯ, ಸಂಗೀತ ಮತ್ತು ವೇಷಭೂಷಣ.",
+    "translation_en": {
+      "instruction": "What is Bhoota Kola?",
+      "response": "Bhoota Kola is a local spirit worship ritual."
+    }
+  },
+  {
+    "instruction": " ಸರಸ್ವತಿ ಕಂಬಳ  ಪಾಂಡ ದಾದಾ?",
+    "response": "ಕಂಬಳ ಪಂಡ ತುಳುನಾಡು ಧ ಯೆರು ಧಾ ಓಟ.ಕೇಸರ್ ಧಾ ಕಂಡದು ಉಂಧು ಆಪುನು.",
+    "translation_en": {
+      "instruction": "What is Kambala?",
+      "response": "Kambala is a buffalo race of Tulu Nadu, held in water-filled paddy fields."
+    }
+  },
+  {
+    "instruction": "ಸರಸ್ವತಿ, ಯಕ್ಷಗಾನ ಪಂಡದಾದ?",
+    "response": "ಯಕ್ಷಗಾನ ಉಂಜಿ ಜನಪದ ನಾಟಕ. ನಲಿಕೆದ ಸಂಗೀತ ಬೊಕ್ಕ ಪೌರಾಣಿಕ ಕತೆ.",
+    "translation_en": {
+      "instruction": "What is Yakshagana?",
+      "response": "Yakshagana is a folk theatre combining dance, music, and mythological stories."
+    }
+  },
+  {
+    "instruction": " ಸರಸ್ವತಿ, ಉಡುಪಿ ಯೇನೆಕ್ ಪ್ರಸಿದ್ಧ?",
+    "response": "ಉಡುಪಿ ಕೃಷ್ಣಮಠ ಬೊಕ ಮಲ್ಪೆ ಬೀಚ್ ಗೆ ಪ್ರಸಿದ್ಧ.",
+    "translation_en": {
+      "instruction": "Why is Udupi famous?",
+      "response": "Udupi is famous for the Krishna Temple, Malpe Beach, and its delicious sambar."
+    }
+  },
+  {
+    "instruction": "ತುಳುನಾಡ್ ಧಾ ಪ್ರಮುಖ ಪರ್ಬ ಓವು?",
+    "response": "ಬಿಸು ಪರ್ಬ ತುಳುನಾಡು ಧಾ ಪ್ರಮುಖ ಪರ್ಬ. ಉಂದು ಪೊಸ ವರ್ಷ ಬಕ ಕೊರ್ಲ್ ಪರ್ಬ.",
+    "translation_en": {
+      "instruction": "What is the main festival of Tulu Nadu?",
+      "response": "Bisu Parba is the main festival of Tulu Nadu, celebrated as both the new year and harvest festival."
+    }
+  },
+  {
+    "instruction": " ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಧಾ ಉಣಸ್ ಧಾ ವಿಶೇಷ ದಾದಾ?",
+    "response": "ಮೀನ್ ಸಾರ್,ನೀರ್ ದೋಸೆ,ಕೋರಿ ರೊಟ್ಟಿ ಉಂದು  ಮಾತಾ.",
+    "translation_en": {
+      "instruction": "What is special about Tulu Nadu cuisine?",
+      "response": "Popular dishes of Tulu Nadu include fish curry, neer dosa, kori rotti."
+    }
+  },
+  {
+    "instruction": " ಸರಸ್ವತಿ, ತುಳು ಒಲ್ಪ ಪಾತೆರುವೆರ್?",
+    "response": "ತುಳು ದಕ್ಷಿಣ ಕನ್ನಡ ಬೊಕ ಉಡುಪಿ ಜಿಲ್ಲೆ ಡ್ ಹೆಚ್ಚದು ಪಾತೆರುವೆರ್.",
+    "translation_en": {
+      "instruction": "Where is Tulu spoken?",
+      "response": "Tulu is mainly spoken in the districts of Dakshina Kannada and Udupi."
+    }
+  },
+  {
+    "instruction": " ಸರಸ್ವತಿ,ಕೋಟಿ ಚೆನ್ನೆಯರ್ ಯೆರ್?",
+    "response": "ಕೋಟಿ ಚೆನ್ನಯೆರ್ ಅಮರ್ ಮೆಗ್ಗ್ ಪಲ್ಲಯೆರ್. ಅಗುಳು ಊರ್ರ್ಧ ಜನಕುಲನ ಹಾಕ್ಗೆ ಹೊರಡ್ಡಿನಗುಲು.",
+    "translation_en": {
+      "instruction": "What is the story of Koti and Chennayya?",
+      "response": "Koti and Chennayya were brave twin brothers who fought for the rights of the people and stood against injustice."
+    }
+  },
+  {
+    "instruction": "ಸರಸ್ವತಿ,ಮಂಗಳೂರು ಓವಿಕ್ ಪ್ರಸಿಧ?",
+    "response": "ಮಂಗಳೂರಿನ ಕಾಫಿ, ಬೊಕಾ ಬೀಚ್, ತಾರೈಧಾ ಯೆನ್ನೆ ಬಕ ಬಂದರಿಗೆ ಪ್ರಸಿದ್ಧ",
+    "translation_en": {
+      "instruction": "Why is Mangalore famous?",
+      "response": "Mangalore is famous for its coffee, coconut oil, and port."
+    }
+  },
+  {
+    "instruction": " ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಧ ಪ್ರಸಿದ್ಧ ಕಲೆ ಓವು?",
+    "response": "ಯಕ್ಷಗಾನ ತುಳುನಾಡ ಧಾ ಪ್ರಸಿದ್ಧ ಕಲೆ.",
+    "translation_en": {
+      "instruction": "What is the traditional dance of Tulu Nadu?",
+      "response": "Yakshagana is the famous traditional dance of Tulu Nadu."
+    }
+  },
+  {
+    "instruction": " ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಧಾ ಉಣಸ್ ಧಾ ಶೈಲಿ ಯೆಂಚಾ?",
+    "response": "ತುಳುನಾಡ್ ಧಾ ಉಣಸ್ ಧಾ ತಾರೈ,ಕೈಬೇವು ಬೊಕ ಮಸ್ತ್ ಮಸಾಲೆ ಮಾತಾ ಇಪ್ಪುಂಡು.",
+    "translation_en": {
+      "instruction": "What is the style of Tulu Nadu cuisine?",
+      "response": "Tulu Nadu cuisine makes rich use of coconut, curry leaves, and spices."
+    }
+  },
+  {
+    "instruction": "ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ದು ಒವು ಮುಕ್ಯ ನದಿ?",
+    "response": "ನೇತ್ರಾವತಿ ನದಿ ತುಳುನಾಡ್ ಧಾ ಮುಖ್ಯ ನದಿ.",
+    "translation_en": {
+      "instruction": "Which river flows in Tulu Nadu?",
+      "response": "The Netravati river is the main river of Tulu Nadu."
+    }
+  },
+  {
+    "instruction": "ಸರಸ್ವತಿ,ತುಳುನಾಡು ಧಾ ದುಂಬುದ ರಾಜಧಾನಿ ಓವು?",
+    "response": "ಮಂಗಳೂರು ಬೊಕ ಬಾರ್ಕುರ್ ದುಂಬುಧಾ ರಾಜದಾನಿ ಅಧಿತಂಡ್.",
+    "translation_en": {
+      "instruction": "What was the old capital of Tulu Nadu?",
+      "response": "Barkur and Mangalore were old capitals of Tulu Nadu."
+    }
+  },
+  {
+    "instruction": "ತುಳುನಾಡ್ ಧಾ ಜನಪದ ಕಥೆ ಡ್ ಒಂಜಿ ಕಥೆ ತಾ ಪುದರ್ ಪನ್ಲ್ಹೆ..",
+    "response": "ನಾಗಮಂಡಲ ತುಳುನಾಡ್ ಧಾ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಜನಪದ ಕಥೆ.",
+    "translation_en": {
+      "instruction": "Name one folk art of Tulu Nadu.",
+      "response": " Nagamandala are famous folk arts of Tulu Nadu."
+    }
+  },
+  {
+    "instruction": "ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಧಾ ಪ್ರಮುಖ ಧರ್ಮ ಒವ್ವು?",
+    "response": "ತುಳುನಾಡ್ ಡು ಹಿಂದೂ ಧರ್ಮ ಮುಖ್ಯ ಧರ್ಮ,ಆಂಡಲ ಮುಲ್ಪ ಕ್ರೈಸ್ತರು ಬಕ ಮುಸ್ಲಿಂ ಸಮುದಾಯ ದಗುಲ್ಲ ಉಲ್ಲೆರ್.",
+    "translation_en": {
+      "instruction": "What is the main religion in Tulu Nadu?",
+      "response": "Hinduism is the main religion in Tulu Nadu, though there are also Christian and Muslim communities."
+    }
+  },
+  {
+    "instruction": "ಸರಸ್ವತಿ,ಕೊರಿದ ಕಟ್ಟ ಪಂಡ ದಾದಾ?",
+    "response": "ಕೋರಿ ದ ಕಟ್ಟ ತುಳುನಾಡು ಧಾ ಪ್ರಸಿದ್ಧ ಕ್ರೀಡೆ,ಅಂಡರ್ ರಾಡ್ ಕೋರಿಲು ಗಲಾಟೆ ಮಲ್ತೊಂಬ ಐತು ಒಂಜಿ ಕೋರಿ ವಿನ್ ಆಪುಂಡು.",
+    "translation_en": {
+      "instruction": "What is cockfighting in Tulu Nadu?",
+      "response": "Cockfighting is a traditional sport in Tulu Nadu where two roosters fight, testing their strength, agility, and stamina."
+    }
+  },
+  {
+    "instruction": " ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಡ್ ಕೊರಿ ಧಾ ಕಟ್ಟ ಯಾಪ ಮಾತಾ ಆಪುಂಡು?",
+    "response": "ಕೋರಿದ ಕಟ್ಟ ಉಷ ಪರಭ ಡ್  ,ಧಾರ್ಮಿಕ ಉತ್ಸವ ಡ್  ಬೊಕ ಬೇತೆ ಮಾತ ಹಬ್ಬ ಪರ್ಬ ಡ್  ಆಪುಂಡು.",
+    "translation_en": {
+      "instruction": "During which occasions is cockfighting held in Tulu Nadu?",
+      "response": "It is usually held during village festivals, religious celebrations, and special festive days."
+    }
+  },
+  {
+    "question": "ತುಳುನಾಡು ಭೂತ ಕೋಲ ಪಂಡ ದಾದ?",
+    "response": "ಭೂತ ಕೋಲ ಪಂಡ ದೈವಗು ಸೇವೆ ಮಲ್ಪುನ ಒಂಜಿ ವಿದಾನ.",
+    "translation_en": {
+      "instruction": "What is Bhoota Kola in Tulu Nadu?",
+      "response": "Bhoota Kola is a traditional ritual of serving spirits in divine form."
+    }
+  },
+  
+  {
+    "question": "ತುಳುನಾಡ ಧಾ ಜಾತ್ರೆಡ್ ಜನಕುಲು ಮಾತ ದಾದ ಮಲ್ಪುವೆರ್?",
+    "response": "ಜನಕುಲ್ ದೇವಸ್ಥಾನ ಪೋದು ಪೂಜೆ ಮಲ್ಪ್ತುದು ಅವ್ವು ಜಾತ್ರೆನ್ ಆಚರಣೆ ಮಲ್ಪುವೆರ್.",
+    "translation_en": {
+      "instruction": "What do people do during fairs in tulunad?",
+      "response": "People visit temples, offer prayers, and celebrate the festival."
+    }
+  },
+  {
+    "question": " ಸರಸ್ವತಿ,ನೆಮ್ವೋತ್ಸವ್ ಡಿ ಯೆರ್ ಮುಕ್ಯಾ?",
+    "response": "ಭೂತ ದೈವ ಆರಾಧನಾ ಮಾಳ್ಪುನಯೇ ಮುಖ್ಯ.",
+    "translation_en": {
+      "instruction": "Who plays the main role in Nemotsava?",
+      "response": "The ones who worship spirits and deities take the main role."
+    }
+  },
+  {
+    "question": " ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಧಾ ಪ್ರಸಿದ್ಧ ನೃತ್ಯ ಒವ್ವು ಮಥಾ?",
+    "response": "ಪಿಲಿ ವೇಷ ಬಕ ಯಕ್ಷಗಾನ ತುಳುನಾಡ್ ಧಾ ಪ್ರಸಿದ್ಧ ನೃತ್ಯ .",
+    "translation_en": {
+      "instruction": "Which dance forms are famous in Tulu Nadu?",
+      "response": "Pili Vesha and Yakshagana are famous dance forms in Tulu Nadu."
+    }
+  },
+  {
+    "instruction": " ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಡ್ ಪೊಸತು ಅರಿ ಬುಲೆಯಿ ಬೊಕ ಯೇನ ಮಲ್ಪುವೆರ್?",
+    "response": ",ತುಳುನಾಡ್ ಡ್ಅವ್ವೆ ಪೋಸ್ ಅರಿ ತಾ ನುಪ್ಪು ಮಲ್ತುದ್ ಆಚರಣೆ ಮಲ್ಪುವೆರ್ರ್.",
+    "translation_en": {
+      "instruction": "What do people celebrate after harvesting new crops?",
+      "response": "People cook the new rice and celebrate the festival."
+    }
+  },
+  {
+    "instruction": "ಭೂತ ಕೋಲ ಡ್ ಓವು ಮಾತಾ ಸಂಗೀತ ಇಪುಂಡು?",
+    "response": "ಚೆಂಡೆ ಬೊಕಾ ತಾಳ ವಾದ್ಯ ಮಾತಾ ಭೂತ ಕೋಲ ಡ್ ಇಪ್ಪುಂಡು.",
+    "translation_en": {
+      "instruction": "What type od music will be there in Bhoota Kola?",
+      "response": "Instruments like chende and tala will be there."
+    }
+  },
+  {
+    "instruction": "ತುಳುನಾಡ್ ಡ್ ಸುರುಕು ಗೆ ಇಲ್ಲು ಕಟ್ಟನಗ ಒವು ಪೂಜೆ ಮಲ್ಪುವೆರ್?",
+    "response": "ಸುರುತ ಗೆ ಇಲ್ಲು ಕಟ್ಟನಗ ಭೂಮಿ ಪೂಜೆ ಮಲ್ಪುವೆ.",
+    "translation_en": {
+      "instruction": "Which ritual is performed before building a house?",
+      "response": "People perform Bhoomi Puja before building a house."
+    }
+  },
+  {
+    "instruction": "ತುಳು ನಾಡ್ ಡ್ ಪಿಲಿ ವೇಷ ಯಾಪ ಮಾತ ಪಾಡುವೆರ್?",
+    "response": "ತುಳುನಾಡ್ ಡ್ ಪಿಲಿ ವೇಷ ಅಷ್ಟಮಿ, ದಸರಾ ಬೊಕ ಬೇತೆ ಪರ್ಬ ಗು ಮಾತಾ ಪಾಡುವೆರ್.",
+    "translation_en": {
+      "question": "When is Pili Vesha performed in Tulu Nadu?",
+      "response": "Pili Vesha is performed during Dasara, Ashtami  and special occasions."
+    }
+  },
+  [
+    {
+      "instruction": " ಸರಸ್ವತಿ,ಯಕ್ಷಗಾನ ತುಳುನಾಡ್‌ದೇ ಒಲ್ಪ ಶುರು ಆಯೆನೀ?",
+      "response": "ಯಕ್ಷಗಾನ ತುಳುನಾಡ್ ಧ ಕರಾವಳಿ ಕಾರ್ವಲಿ ಕಾರ್ನಾಟಕ ದ ದಕ್ಷಿಣ ಕನ್ನಡ,ಉಡುಪಿ ಬೊಕ ಉತ್ತರ ಕರ್ನಾಟಕ ಕ ದ ಕೆಲವವು ಬಾಗ ದು ಶುರು ಆಯೆನೀ.",
+      "translation_en": {
+        "instruction": "Where and when did Yakshagana originate in Tulu Nadu?",
+        "response": "Yakshagana originated in the coastal regions of Karnataka, including Dakshina Kannada, Udupi, and parts of Uttara Kannada."
+      }
+    },
+    {
+      "instruction": "ಸರಸ್ವತಿ,ತುಳುನಾಡ ಆಲೂದಿನ ಪ್ರಮುಕಾ ರಾಜವಂಶ ಒವು?",
+      "response": "ತುಳುನಾಡ ಆಲುದಿನ ಪ್ರಮೂಕ ರಾಜವಂಶ ಅಲುಪ ರಾಜವಂಶ.",
+      "translation_en": {
+        "instruction": "Which was the prominent dynasty that ruled Tulu Nadu?",
+        "response": "The prominent dynasty that ruled Tulu Nadu was the Alupa dynasty."
+      }
+    },
+    {
+      "instruction": "ತುಳುನಾಡ ಕಂಬುಲ ಪಂಡ ದಾದ?",
+      "response": "ಕಂಬುಲ ಪಂಡ ತುಳುನಾಡ್ ಧ ಪ್ರಂಪರಿಕಾ ಯೇರ್ಲು ಬಲ್ಪುನ ಸ್ಪರ್ಧೆ.",
+      "translation_en": {
+        "instruction": "What is Kambala in Tulu Nadu?",
+        "response": "Kambala is a traditional buffalo race competition in Tulu Nadu."
+      }
+    },
+    {
+      "instruction": "ತುಳುನಾಡ ಧ ಪ್ರಂಪರಿಕಾ ಉನಸ್ ಒವು ಮಾತಾ?",
+      "response": "ತುಳುನಾಡ್ ಡ್ ಮೀನ್ ಧ ಚಟ್ನಿ, ಬಂಗುಡೆ ಗಸಿ ಉಂಧು ಮಾತಾ.",
+      "translation_en": {
+        "instruction": "What is a traditional dish in Tulu Nadu?",
+        "response": "Kothambari chutney, bangude ghasi, and kadle manjol are famous dishes in Tulu Nadu."
+      }
+    },
+    {
+      "instruction": "ಸರಸ್ವತಿ,ತುಳುನಾಡು ಧ ಒಂಜಿ ಪ್ರಸಿದ್ದ ದೇವಾಲಯ ಧ ಪುಧರ್ ಪನ್ಪೆ?",
+      "response": "ಶ್ರೀ ಕಾಟೀಲು ದುರ್ಗಾಪರಮೇಶ್ವರಿ ದೇವಾಸ್ಥಾನ  ತುಳುನಾಡ ಧ ಪ್ರಸಿದ್ಧ ದೈವಸ್ಥಾನ .",
+      "translation_en": {
+        "instruction": "Which is   one of the famous historical temple in Tulu Nadu?",
+        "response": "Shri Kateel Durgaparameshwari Temple is one of the famous historical temple in Tulu Nadu."
+      }
+    },
+    
+
+
+
+
+  {
+      "instruction": "ತುಳುನಾಡ್ ಡ್ ಮದ್ಮೆ ಧೂ ದುಂಬು ನಡಪುನ ಮುಕ್ಯ ಆಚರಣೆ ಒವ್ವು?",
+      "response": "ತುಳುನಾಡ್ ಡ್ ಮದ್ಮೆ ಧೂ ದುಂಬು ‘ಧಾರೆ ಎರ್ಪಿನ’ ಶಾಸ್ತ್ರ ಮುಖ್ಯ.",
+      "translation_en": {
+        "instruction": "What is the main ritual performed before a wedding in Tulu Nadu?",
+        "response": "In Tulu Nadu, the ‘Dhare Erpina’ ritual is performed before a wedding."
+      }
+    },
+    {
+      "instruction": "ತುಳುನಾಡ್ ದು ಭೂತ ರಧನೆ ಧ ಮೂಕ್ಯ ಊದೇಶ ದಾದ?",
+      "response": "ಭೂತ ರಧನೆ ಧ ಮೂಕ್ಯ ಉದ್ದೇಷ ಗ್ರಾಮಧ ರಕ್ಷೆನೆ ಬಿಕ ಮಾತೆರ್ಲ ಯೀದೆ ಆವಡ್ದದಂಧು.",
+      "translation_en": {
+        "instruction": "What is the main purpose of Bhuta worship in Tulu Nadu?",
+        "response": "The main purpose of Bhuta worship is to appease deities for village protection and prosperity."
+      }
+    },
+    {
+      "instruction": "ತುಳುನಾಡ್ ಧ ದುಂಬು ಧ ಶಿಲೆ ಮಾತಾ ಒವು ಬಾಷೆ ದೇ ಉಂಡು?",
+      "response": "ತುಳುನಾಡ ಧ ದುಂಬು ಧ ಶಿಲೆ ಮಾತಾ ತುಳು ಲಿಪಿ ,ಕನ್ನಡ ಬೊಕ ಸಂಸ್ಕೃತ ಡ್ ಉಂಡು.",
+      "translation_en": {
+        "instruction": "In which languages are ancient inscriptions of Tulu Nadu found?",
+        "response": "Ancient inscriptions in Tulu Nadu are found in Tulu, Kannada, and Sanskrit."
+      }
+    },
+    {
+      "instruction": "ಸರಸ್ವತಿ,ತುಳು ಟ್ ಮಾರ್ಕೆಟ್ ಗೆ ಪೋವರೆಗ್ ಯೆಂಚ ಪನ್ಪುನು?",
+      "response": "ತುಳು ಟ್, ಮಾರ್ಕೆಟ್ ಗೆ ಪೋದು ಬರ್ಪೆ ಅಂಧು ಪನ್ಪೆರ್",
+      "translation_en": {
+        "instruction": "how do people say i will go to makrket in tulu?",
+        "response": "People say ‘Marketg podh barpe’ in Tulu ."
+      }
+    },
+    {
+      "instruction": "ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಡ್ ಮೀನುಗಾರ್ಕಿಕೆ ಧ ಪ್ರಮುಕ್ಯತೆ ದಾದ?",
+      "response": "ಮೀನುಗಾರಿಕೆ ತುಳು ನಾಡು ಡ್ ಜನಕುಲ ಉದ್ಯಾಮ ಬೊಕ ಕಾಸ್ ಧ ತಾಧಿ,",
+      "translation_en": {
+        "instruction": "What is the importance of fishing in Tulu Nadu?",
+        "response": "Fishing is a livelihood and a key part of the economy for coastal people in Tulu Nadu."
+      }
+    },
+    {
+      "question": "ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಡ್ ತರ್ರೈಧ ಪ್ರಮುಕ್ಯತೆ ದಾದ?",
+      "response": "ತರ್ರೈ ತುಳುನಾಡ್ ಡ್ ಕೈಪು ಗೆ,ಆಚಾರ್ನೆ ಗೆ ಮುಕ್ಯ ವಧು ಬಾಲೆಕೆ ಆಪುಂಡು.",
+      "translation_en": {
+        "question": "Why is coconut cultivation important in Tulu Nadu?",
+        "response": "Coconut is a key crop in Tulu Nadu for food and rituals."
+      }
+    },
+    {
+      "question": " ಸರಸ್ವತಿ,ತುಳು ಡ್  ಧಾನ್ಯವಾದ ಯೆಂಚ ಪನ್ಪುನು",
+      "response": "ತುಳು ಡ್ಸೋಲ್ಮೇಲು ಅಂದು ಪನ್ಪುನು",
+      "translation_en": {
+        "instruction": "How do people say thank you in Tulu Nadu?",
+        "response": "People say ‘Solmelu’ in Tulu ."
+      }
+    },
+    {
+      "question": " ಸರಸ್ವತಿ,ಮಂಗಳೂರು ಅಂದು ಪುದರ್ ಯೆಂಚ ಬತ್ತಿನೀ?",
+      "response": "ಮಂಗಳಾದೇವಿ ದೇವಸ್ಥಾಂಡ್ ಧು ಮಂಗಳೂರು ಅಂದು ಪುದರ್ ಬತ್ತಿನೀ.",
+      "translation_en": {
+        "question": "how did the name mangalore origin?",
+        "response": "Mangalore got its name from the Mangaladevi temple."
+      }
+    },
+    {
+      "instruction": "ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಧಾ ಪ್ರಮುಖ ಬಂದರ್ ಓವು?",
+      "response": "ಮಂಗಳೂರು ಧಾ ಬಂದರ್ ತುಳುನಾಡ್ ಧಾ ಪ್ರಮುಖ ಬಂದರ್ ಉಂದು ಬಂದರ್ ದುಂಬ್ದ್ ದಿಂಚಿಲ ಪ್ರಸಿದ್ಧ.",
+      "translation_en": {
+        "instruction": "Which is the major port in Tulu Nadu?",
+        "response": "Mangalore port has been famous since ancient times."
+      }
+    },
+    {
+      "instruction": "ಸರಸ್ವತಿ,ಪಣಂಬೂರ್ ಒವು ಕಾರಣಗು ಪ್ಪ್ರಸಿದ್ದ?",
+      "response": "ಪಣಂಬೂರ್ ಬಂದರ್ ಬೊಕ ಬೀಚ್ ಗೆ ಪ್ರಸಿದ್ದ.",
+      "translation_en": {
+        "instruction": "Why is Panambur famous?",
+        "response": "Panambur is famous for its port and beach."
+      }
+    },
+    {
+      "question": "ತುಳುನಾಡ್ ದ ಪ್ರಮುಕಾ ಬ್ಯಾರ ಒವು?",
+      "response": "ಆರಿ,ಬಜ್ಜೆಯೆ ಬೊಕ್ಕ ಮೀನುಗರಿಕೆ ಪ್ರಮುಕಾ ಬ್ಯಾರ.",
+      "translation_en": {
+        "question": "What were the traditional trades in Tulu Nadu?",
+        "response": "Areca nut, rice, and fish were traditional trades."
+      }
+    },
+    {
+      "question": "ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಒವು ಸಮುದ್ರ ಧ ತೀರಡ್ದ್ ಇಪ್ಪುನು?",
+      "response": "ತುಳುನಾಡ್ ಅರಭಿ ಸಮುದ್ರ ಧ ತೀರ ದ್ ಇಪ್ಪುನು",
+      "translation_en": {
+        "question": "On which coast is Tulu Nadu located?",
+        "response": "Tulu Nadu is located on the Arabian Sea coast."
+      }
+    },
+    {
+      "instruction": "ಸರಸ್ವತಿ,ಉಡುಪಿ ಧ ಶ್ರೀ ಕೃಷ್ಣ ಮಠ  ಧ ಚರಿತ್ರೆ ದಾದ?",
+      "response": "ಮಧ್ವಾಚಾರ್ಯೆರ್ 13 ನೆ ಶತಮಾನ ಡ್ ಉಂದು ದೇವಸ್ತನ ನ್ ಸ್ಥಾಪನೆ ಮಲ್ತೆರ್.",
+      "translation_en": {
+        "instruction": "What is the history of Udupi Krishna Matha?",
+        "response": "Madhvacharya established the Matha in the 13th century."
+      }
+    },
+    {
+      "instruction": "ಸರಸ್ವತಿ,ಈರ್ ಯೆಂಚ ಉಳ್ಳಾರ್ ?",
+      "response": "'ಯಾನ್ ಸೌಕ್ಯಾ! ಈರ್ ಯೆಂಚ ಉಲ್ಲರ್",
+      "translation_en": {
+        "instruction": "sarsavathi ,how are you?",
+        "response": "I'm Fine How are You?'."
+      }
+    },
+    {
+      "instruction": "ಸರಸ್ವತಿ,ತುಳುನಾಡ ಧ ಇತಿಹಾಸ ಪ್ರಸಿದ್ಧ ದೇವಸ್ಥಾನ ಒವು ಮಾತಾ?",
+      "response": "ತುಳುನಾಡ ಧ ಕುಕ್ಕೆ ಸುಬ್ರಹ್ಮಣ್ಯ,ಕಾಸರಗೋಡು ಅನಂತ ಪದ್ಮನಾಭ ದೈವಸ್ಥಾನ ಇತಿಹಾಸ ಪ್ರಸಿದ್ಧ ದೇವಸ್ಥಾನ .",
+      "translation_en": {
+        "instruction": " which all the  famous historical  temples  in Tulu Nadu?",
+        "response": "In Tulu Nadu, temples like Kukke Subrahmanya and Kasaragod Anantapadmanabha are historically famous."
+      }
+    },
+
+
+    {
+
+"instruction": "ಸರಸ್ವತಿ,ತುಳುನಾಡ್ ಢ ಸಿನಿಮಾ ಧ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+"response": "ತುಳುನಾಡ್ ಧ ಸುರುತ ಸಿನಿಮಾ 'ಎನ್ನ ತಂಗಡಿ' 1971 ಡ್ ಧು ಶುರು ಅಂಡು",
+"translation_en": {
+"instruction": "Provide information about the beginning of the cinema industry in Tulu Nadu.",
+"response": "The cinema industry in Tulu Nadu began with the release of the film Enna Thangadi in 1971."
+}
+},
+
+
+
+{
+
+"instruction": "ತುಳುನಾಡ್ ಡ್ ಯೆಂಚಿತ್ತಿನ ಮಾತಾ ಸಿನಿಮಾ ಮಲ್ಪುವೆರ್ ಜಾಸ್ತಿಯಾದ್.",
+"response": "ತುಳುನಾಡ್ ಡ್ ಗಮ್ಮತ್ ದ , ತುಳುನಾಡ್ ದ ಗ್ರಾಮೀಣ ಜೀವನಾಧ ಬೊಕ ಅಲ್ತ ಸಂಸ್ಕೃತಿ ಧ ಬಗ್ಗೆ ಸಿನಿಮಾ ಮಲ್ಪುವೆರ್.",
+"translation_en": {
+"instruction": "Tell about the popular themes in Tulu cinema.",
+"response": "Comedy, rural life, and cultural traditions are popular themes in Tulu cinema."
+}
+},
+
+
+{
+
+"instruction": "ತುಳು ಸಿನಿಮಾ ಧಾ ಕೆಲವು ನಟ ನಾಗಲ್ನ ಪುದರ್ ಪನ್ಲೆ",
+"response": "ತುಳು ಸಿನಿಮಾ ಡ್ ದೇವದಾಸ್ ಕಾಪಿಗಡ್,ರೂಪೇಶ್ ಶೆಟ್ಟಿ ಬೊಕ ಅರವಿಂಧ ಬೋಳಾರ್ ಪ್ರಮುಕಾ ನಾಟ ನಗುಲು.",
+"translation_en": {
+"instruction": "Tell about the actors in Tulu cinema.",
+"response": " Devadas Kapikad, Rupesh Shetty, and Aravind Bolar are some actors in Tulu cinema."
+}
+},
+
+
+{
+
+"instruction": "ಸರಸ್ವತಿ,ತುಳು ಸಿನಿಮಾ ಮಲ್ಪನಗ ಒವು ಮಾತಾ ಜಾಗ ನು ಜಾಸ್ತಿ ಆಧು ಬಲಕೆ ಮಲ್ಪುವೆರ್.",
+"response": "ತುಳು ಸಿನಿಮಾ ಮಲ್ಪನಗ ಮಂಗಳೂರು ,ಉಡುಪಿ ಬೊಕ ಕಾಸರ್ಗೊಡು ನು ಮಸ್ತ್ಡು ಬಲಕೆ ಮಲ್ಪುವೆರ್.",
+"translation_en": {
+"instruction": "Provide information about the major locations used for filming Tulu cinema.",
+"response": "Mangalore, Udupi, and Kasaragod regions are primarily used for filming Tulu cinema."
+}
+},
+
+
+{
+
+"instruction": "ಸರಸ್ವತಿ,ತುಳುನಾಡ ಧ ಆಲುಪ ರಾಜವಂಶ ಧ ಬಗ್ಗೆ ಪನ್ಲೆ.",
+"response": "ಅಲುಪ ರಾಜವಂಶ ತುಳುನಾಡುನ್ 6 ನೇ ಶತಮಾನಾಡ್ ಧೂ 14 ನೇ ಶತಮನ ಮುಟ ಆಳ್ವಿಕೆ ಮಲ್ದುಂಡು.",
+"translation_en": {
+"instruction": "Tell about the history of Alupa dynasty of Tulu nadu.",
+"response": "The Alupa dynasty ruled Tulu Nadu from the 6th to the 14th century."
+}
+},
+
+
+{
+   
+    "instruction": "ತುಳುನಾಡ್ ದ ಮೀನು ಗರಿಕೆ ಗೆ ಒವು ವಿದನ ಬಲಕೆ ಮಲ್ಪುವೆರ್?",
+    "response": "ತುಳುನಾಡ್ ದ ಮೀನು ಗರಿಕೆ ಗೆ ಬಾಲೆ, ಧೋನಿ ಉಂದು ಮಾತಾ ಬಲಕೆ ಮಲ್ಪುವೆರ್.",
+    "translation_en": {
+      "instruction": "Which methods are used for fishing in Tulu Nadu?",
+      "response": "People use boats, nets, and hooks for fishing."
+    }
+  },
+
+
+   {
+    
+    "instruction": "ತುಳುನಾಡ ಧ ಪ್ರಸಿಧ ಮರುಕಟ್ಟೆ ಒವು ??",
+    "response": "ಮಂಗಳೂರು ಮರುಕಟೆ ಬಜ್ಜೆಯೆ ಬೊಕ ಮೀನುಗಾರಿಕೆ ಗೆ ಪ್ರಸಿದ್ಧ.",
+    "translation_en": {
+      "instruction": "Which is a famous market in Tulu Nadu?",
+      "response": "Mangalore market is famous for areca nut and fish."
+    }
+  },
+  {
+   
+    "instruction": "ತುಳುನಾಡ್ ಡು ಯಕ್ಷಗಾನ ಧ ವೇಷಭೂಷಣ ಯೆಂಚ ಇಪ್ಪುಂಡು?",
+    "response": "ತುಳುನಾಡ್ ಡು ಯಕ್ಷಗಾನ ಧ ವೇಷಭೂಷಣ ರಂಗ್ ರಂಗ್ದ ವಸ್ತ್ರ ಬೊಕ ಮಸ್ತ್ ಅಲಂಕಾರ ಇಪುಂಡು.",
+    "translation_en": {
+      "instruction": "How are Yakshagana costumes in Tulu Nadu?",
+      "response": "Yakshagana costumes are colorful with rich ornaments."
+    }
+  },
+  {
+    
+    "instruction": "ಪಿಲಿವೇಶ ಧ ಚಿತ್ರ ಕಾಲೆ ಒಯಿತ ಅರ್ಥ ಕೊರ್ಪುಂಡು?",
+    "response": "ಪಿಲಿವೇಶ ಧ ಚಿತ್ರ ಕಲೆ ಶಕ್ತಿ ಬೊಕ ದೈರ್ಯದ ಅರ್ಥ ಕೊರ್ಪುಂಡು.",
+    "translation_en": {
+      "instruction": "What does Pili Vesha body painting symbolize?",
+      "response": "Pili Vesha painting symbolizes power and courage."
+    }
+  },
+
+    {
+   
+    "instruction": "ತುಳುನಾಡ ಧ ಪ್ರಸಿಧ ತಿಂಡಿಲು ಒವ್ವು ಮಾತ?",
+    "response": "ತುಳುನಾಡು ಡು ನೀರ್ ದೋಸೆ ಬೊಕ ಕೋರಿ ರೊಟ್ಟಿ ಪ್ರಸಿಧ.",
+    "translation_en": {
+      "instruction": "Which food is famous in Tulu Nadu?",
+      "response": "Neer dosa and Kori rotti are famous dishes of Tulu Nadu."
+    }
+  },
+  {
+ 
+    "instruction": "ತುಳುನಾಡ್ ಡು ಬಾರೆ ಧಾ ಇರೆಟ್ಟು ಯೆನೆಕ್ ಉನಸ್ ಮಲ್ಪುವೆರ್?",
+    "response": "ಬರೆದ ಇರೆ ಶುದ್ಧ ಬೊಕ ಆರೋಗ್ಯ ಗೆ ಯೆಡ್ದು ಅಂದು ಬಲಕೆ ಮಲ್ಪುವೆರ್",
+    "translation_en": {
+      "instruction": "Why do people eat on banana leaves in Tulu Nadu?",
+      "response": "They believe banana leaves bring purity and health."
+    }
+  },
+
+
+    {
+    
+    "instruction": "ತುಳುನಾಡ್‌ಡ್ ತಾರಾಯಿದ ಮಹತ್ವ ದಾದ??",
+    "response": "ಅಡುಗೆ, ಪೂಜೆ, ವ್ಯಾಪಾರೊಡು ತಾರಾಯಿ ಮುಖ್ಯ..",
+    "translation_en": {
+      "instruction": "What is the importance of coconut in Tulu Nadu?",
+      "response": "Coconut is important in cooking, rituals, and trade."
+    }
+  },
+
+    {
+    
+    "instruction": "ತುಳುನಾಡ್ ಡ್ ಅರಿ ಬುಳೆಪಾವುನ ಋತು ಒವು??",
+    "response": "ಅರಿತ ಬುಳೆನ್ ಸಾಮಾನ್ಯವಾದ್ ಮಳೆಗಾಲೊಡು ನಡ್ಪೆರ್..",
+    "translation_en": {
+      "instruction": "When is rice cultivated in Tulu Nadu?",
+      "response": "Rice is usually cultivated during the monsoon."
+    }
+  },
+   {
+    
+    "instruction": "ತುಳುನಾಡ್ದ ಬೆನ್ನಿ ಬೆನ್ನಿದಕುಲು ವಾ ಪ್ರಕೃತಿದ ಗೊಬ್ಬರ ಬಳಕೆ ಮಲ್ಪುವೆರ್",
+    "response": "ಜನ ಎರ್ಮೆದ ಗೊಬ್ಬರ ಬೊಕ್ಕ ಇರೆತ ಗೊಬ್ಬರೊನು ಬಳಕೆ ಮಲ್ಪುವೆರ್..",
+    "translation_en": {
+      "instruction": "Which natural fertilizers do farmers use in Tulu Nadu?",
+      "response": "They use cow dung and leaf compost."
+    }
+  },
+   {
+    
+    "instruction": "ತುಳುನಾಡ್‌ಡ್ ಶಿಲ್ಪಕಲೆಗ್ ದಾದ ಸಾಮಗ್ರಿ ಬಳಕೆ ಮಲ್ಪುವೆರ್?",
+    "response": "ಮರ ಬೊಕ್ಕ ಕಲ್ಲ್ ನ್ ಶಿಲ್ಪಕಲೆಗ್ ಮಸ್ತ್ ಬಳಕೆ ಮಲ್ಪುವೆರ್..",
+    "translation_en": {
+      "instruction": "Which materials are used in Tulu Nadu sculpture?",
+      "response": "Wood and stone are mostly used for sculpture."
+    }
+  },
+  {
+    
+    "instruction": "ಸರಸ್ವತಿ ಯಕ್ಷಗಾನೊಡು ವಾ ಸಂಗೀತ ವಾದ್ಯೊಲೆನ್ ಬಳಕೆ ಮಲ್ಪುವೆರ್?",
+    "response": "ಚೆಂಡೆ, ಮದ್ದಳೆ, ಬೊಕ ಹಾರ್ಮೋನಿಯಂ  ಬಳಕೆ ಮಲ್ಪುವೆರ್.",
+    "translation_en": {
+      "instruction": "Which musical instruments are used in Yakshagana?",
+      "response": "Chende, Maddale, and Harmonium are used."
+    }
+  },
+   {
+      "instruction": "ತುಳು ನಾಡುಡ್ ಹಿಟ್ಟು ಇಜ್ಜಂದೆ ಮಲ್ಪುನ ದೋಸೆ ದಾದ?",
+    "response": "ನೀರ್ ದೋಸೆನ್ ಹಿಟ್ಟು ಇಜ್ಜಂದೆ ಮಲ್ಪುವೆರ್",
+    "translation_en": {
+      "instruction": "Which dosa is made without thick batter in Tulu Nadu?",
+      "response": "Neer dosa is made without thick batter."
+    }
+  },
+
+    {
+   
+    "instruction": "ತುಳುನಾಡ್ದ ಪೆರ್ಮೆದ ಜಲಪಾತ ಒವು??",
+    "response": "ಕುಡ್ಲು ತೀರ್ಥ ಬೊಕ್ಕ ಸೋಮೇಶ್ವರ ಜಲಪಾತ ಪ್ರಸಿದ್ಧ.",
+    "translation_en": {
+      "instruction": "Which waterfalls are famous in Tulu Nadu?",
+      "response": "Kudlu Theertha and Someshwar waterfalls are famous."
+    }
+  },
+ 
+  {
+   
+    "instruction": "ಕುಡ್ಲದ ಪ್ರಸಿದ್ಧಉದ್ಯಾನವನ ಒವು?",
+    "response": "ಪಿಲಿಕುಳ ಒಂಜಿ ಪ್ರಸಿದ್ಧ ಉದ್ಯಾನವನ..",
+    "translation_en": {
+      "instruction": "Which is a famous park in Mangalore?",
+      "response": "Pilikula  is one of a famous park."
+    }
+  },
+  {
+    
+    "instruction": "ತುಳುನಾಡ್ದ ಪೆರ್ಮೆದ ತುಧೆ ಒವು??",
+    "response": "ನೇತ್ರಾವತಿ ಬೊಕ್ಕ ಗೌರಿ ತುಧೆ ಪುದರ್ ಪೋಯಿನ ತುಧೆ.",
+    "translation_en": {
+      "instruction": "Which are famous rivers in Tulu Nadu?",
+      "response": "Netravati and Gurupura are famous rivers."
+    }
+  },
+    {
+   
+    "instruction": "ತುಳುನಾಡ್ ಡ್ ದೀಪಾವಳಿ ಎಂಚ ಆಚರಣೆ ಆಪುಂಡು?",
+    "response": "ಜನಕುಲು ಎಣ್ಣೆದ ದೀಪೊಲೆನ್ ಪೊತ್ತಾದ್ ಸಿಹಿತಿಂಡಿಲೆನ್ ಪಾಲ್ ಮಲ್ಪುವೆರ್..",
+    "translation_en": {
+      "instruction": "How is Diwali celebrated in Kudla?",
+      "response": "People light oil lamps and share sweets."
+    }
+  },
+   {
+    
+    "instruction": "ಮಸ್ತ್ ಯಶಸ್ವಿ ಆಯಿನ ತುಳು ಸಿನಿಮಾ ಒವು?",
+    "response": "''ಚಾಳಿ ಪೊಲಿ' ಬಾರೀ ಯಶಸ್ವಿ ಸಿನಿಮಾ.",
+    "translation_en": {
+      "instruction": "Which is the most successful Tulu movie?",
+      "response": "'Chaali Polilu' is the most successful Tulu movie."
+    }
+  },
+  {
+    
+    "instruction": "ಸಾಮಾನ್ಯವಾದ್ ತುಳು ಸಿನಿಮಾಲೆಡ್ ವಾ ವಿಷಯೊಲೆನ್ ತೋಜಾವೆರ್?",
+    "response": "ಕುಟುಂಬ, ಹಾಸ್ಯ, ಬೊಕ್ಕ ಸಂಪ್ರದಾಯೊಲೆನ್ ತೋಜಾವುಂಡು.",
+    "translation_en": {
+      "instruction": "What themes are usually shown in Tulu movies?",
+      "response": "They usually show family, comedy, and traditions."
+    }
+  },
+  {
+    
+    "instruction": "ಮಂಗಳೂರು ಓವಿಕ್ ಪ್ರಸಿಧ?",
+    "response": "ಕುಡ್ಲದ ಊರು ಅರೆಕಾ ಕಾಯಿ, ಮಸಾಲೆ, ಕಡಲ ಮೀನುಲೆಗ್ ಪ್ರಸಿಧ",
+    "translation_en": {
+      "instruction": "What is Mangalore popular for?",
+      "response": "Mangalore is popular for areca nut, spices, and seafood."
+    }
+  },
+  {
+   
+    "instruction": "ಉಡುಪಿ ವಿಶ್ವ ಪ್ರಸಿದ್ಧ ದಾಯೆ?",
+    "response": "ಉಡುಪಿ ಹೋಟೆಲ್ ಬೊಕ್ಕ ಶ್ರೀ ಕೃಷ್ಣ ಮಠಕ್ಕೆ ವಿಶ್ವ ಪ್ರಸಿದ್ಧ.",
+    "translation_en": {
+      "instruction": "Why is Udupi world famous?",
+      "response": "Udupi is world famous for its hotels and Krishna Matha."
+    }
+  },
+  {
+
+    "instruction": "ವಾ ಭಾಗೊಡು ತುಳು ಭಾಷೆ ಎಚ್ಚ ಪಾತೆರ್ವೆರ್?",
+    "response": "ಉಂದು ಹೆಚ್ಚಾದ್ ದಕ್ಷಿಣಗನ್ನಡ ಬೊಕ್ಕ ಉಡುಪಿ ಜಿಲ್ಲೆಲೆಡ್ ಪಾತೆರುವೆರ್|.",
+    "translation_en": {
+      "instruction": "Where is Tulu language mostly spoken?",
+      "response": "It is mostly spoken in Dakshina Kannada and Udupi districts."
+    }
+  },
+  
+  {
+   
+    "instruction": "ಮಡಿಕೇರಿ ಒಯಿಕೆ ಪ್ರಸಿಧ",
+    "response": "ಮಡಿಕೇರಿ ಕಾಫಿ ತೋಟೊಲೆಗ್ ಬೊಕ್ಕ ಪೊರ್ಲುದ ವಾತಾವರಣೊಗು ಪುದರ್ ಪೋಯಿನ ಊರು..",
+    "translation_en": {
+      "instruction": "Why is Madikeri famous?",
+      "response": "Madikeri is famous for coffee estates and pleasant climate."
+    }
+  },
+  {
+   
+    "instruction": "ಒವು ಊರುಗು ಕುಡ್ಲ ಪನ್ಪಿ ಪುದರ್ ದೀತೆರ್??",
+    "response": "ಮಂಗಳೂರನ್ ಕುಡ್ಲ ಪನ್ಪೆರ್..",
+    "translation_en": {
+      "instruction": "Which city is called Kudla?",
+      "response": "Mangalore is called Kudla."
+    }
+  }
+
+
+  ]
+]
